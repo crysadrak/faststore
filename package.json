@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "Crys a Drak <cd@l33t.cz>",
+  "homepage": "https://crysadrak.github.io/faststore", 
   "dependencies": {
     "bootstrap": "^4.0.0",
     "firebase": "5.2.0",
